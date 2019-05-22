@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="enter_note_title">Enter note title</string>
+    <string name="enter_note_description">Enter note description</string>
+    <string name="note_title">Note title</string>
+    <string name="note_date">Note date</string>
+    <string name="note_description">Note description</string>
+    <string name="delete">Delete</string>
+    <string name="sort_by_a_z">sort by a-z</string>
+    <string name="sort_by_z_a">sort by z-a</string>
+    <string name="sort_by_new_old">sort by new-old</string>
+    <string name="sort_by_old_new">sort by old-new</string>
+    <string name="share">Share</string>
+</resources>

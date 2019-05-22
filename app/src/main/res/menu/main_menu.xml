@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/sortBy">
+
+        <item
+            android:id="@+id/sortByA-z"
+            android:orderInCategory="100"
+            android:title="@string/sort_by_a_z" />
+
+        <item
+            android:id="@+id/sortByZ-a"
+            android:orderInCategory="100"
+            android:title="@string/sort_by_z_a"/>
+
+        <item
+            android:id="@+id/sortByNew-old"
+            android:orderInCategory="100"
+            android:title="@string/sort_by_new_old"/>
+        <item
+            android:id="@+id/sortByOld-new"
+            android:orderInCategory="100"
+            android:title="@string/sort_by_old_new"/>
+    </group>
+</menu>
